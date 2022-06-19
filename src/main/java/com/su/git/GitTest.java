@@ -6,5 +6,7 @@ public class GitTest {
 
         System.out.println("first modify");
         System.out.println("hot-fix");
+        System.out.println(666);
+        System.out.println(666);
     }
 }
